@@ -1,0 +1,11 @@
+{
+    "last_remote_check": 1522066614,
+    "hooks": {
+        "jotform-api-hook": {
+            "name": "jotform-api-hook",
+            "description": "This is a hook for voyager that integrates with a Jotform account to view form data.",
+            "version": "0.12",
+            "enabled": true
+        }
+    }
+}
