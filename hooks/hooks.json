@@ -6,6 +6,12 @@
             "description": "This is a hook for voyager that integrates with a Jotform account to view form data.",
             "version": "0.12",
             "enabled": true
+        },
+        "voyager-bread-generator": {
+            "name": "voyager-bread-generator",
+            "description": "Create BREAD from the console using artisan",
+            "version": "dev-master",
+            "enabled": true
         }
     }
 }

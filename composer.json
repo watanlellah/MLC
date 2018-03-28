@@ -1,6 +1,8 @@
 {
     "name": "laravel/laravel",
     "description": "The Laravel Framework.",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "keywords": [
         "framework",
         "laravel"
@@ -14,7 +16,8 @@
         "laravel/framework": "5.5.*",
         "laravel/tinker": "~1.0",
         "reportico/laravel-reportico": "^5.4",
-        "tcg/voyager": "^1.0"
+        "tcg/voyager": "^1.0",
+        "voyager-bread-generator": "dev-master"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
